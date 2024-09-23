@@ -9,7 +9,7 @@
 
 ###
 
-<div class="image-container">
+<div class="image-container" align="center">
     <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" style="width: 20px; height: 20px;" />
 </div>
 
