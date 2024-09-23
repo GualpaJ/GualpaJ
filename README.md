@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" style="width: 100px; height: 100px;" />
+<div class="image-container">
+    <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" style="width: 100px; height: 100px;" />
+</div>
 
 ###
 
