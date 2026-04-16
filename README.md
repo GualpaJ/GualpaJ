@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Javier .... What´s up!</h2>
+<h2 align="left">Software Developer | Web, Mobile & Cloud Applications</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GualpaJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="300" height="300" /> </div>
 </div>
 
 ###
@@ -27,7 +27,7 @@ Trabajo con un enfoque orientado a producto, combinando:
 - Diseño de interfaces UI/UX modernas
 - Despliegue en entornos cloud
 
-💡 Enfocado en crecer como **Full Stack Developer**, con interés en evolución hacia **Ciberseguridad (Blue Team → Red Team)**.
+💡 Enfocado en crecer como **Full Stack Developer**.
 
 ---
 
