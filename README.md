@@ -27,7 +27,7 @@ Trabajo con un enfoque orientado a producto, combinando:
 - Diseño de interfaces UI/UX modernas
 - Despliegue en entornos cloud
 
-💡 Enfocado en crecer como **Full Stack Developer**.
+💡 Enfocado en crecer como **Full Stack Developer & Mobile Developer**.
 
 ---
 
