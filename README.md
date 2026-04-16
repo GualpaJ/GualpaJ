@@ -2,15 +2,15 @@
 
 ###
 
+<div class="image-container" align="center">
+    <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="300" height="300" />
+</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GualpaJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
 
 ###
-
-<div class="image-container" align="center">
-    <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="300" height="300" />
-</div>
 
 ---
 
