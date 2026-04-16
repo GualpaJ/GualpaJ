@@ -3,7 +3,7 @@
 ###
 
 <div class="image-container" align="center">
-    <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="300" height="300" />
+    <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="150" height="150" />
 </div>
 
 <div align="center">
