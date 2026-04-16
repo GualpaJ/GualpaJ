@@ -2,12 +2,20 @@
 
 ###
 
-<div class="image-container" align="center">
-    <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="150" height="150" />
-</div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GualpaJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+
+<table>
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="150" height="150" />
+    </td>
+
+    <td align="center" style="padding-left: 20px;">
+      <img src="https://streak-stats.demolab.com?user=GualpaJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ###
