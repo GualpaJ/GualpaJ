@@ -91,7 +91,7 @@ Trabajo con un enfoque orientado a producto, combinando:
 
 ## 📱 Zodiac App – Android (RELEASE PUBLICADO)
 
-Aplicación Android nativa publicada en Google Play / release build.
+Aplicación Android nativa en APK funcional (debug/release build), con funcionalidades completas y lista para despliegue.
 
 ### 📌 Funcionalidades
 - RecyclerView con sistema de navegación
