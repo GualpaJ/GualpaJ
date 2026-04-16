@@ -23,7 +23,7 @@
 
 # 🚀 Perfil profesional
 
-Soy desarrollador web y mobile en formación con experiencia en **proyectos reales en producción**, incluyendo aplicaciones desplegadas y apps Android publicadas en release.
+Soy desarrollador web con experiencia en proyectos en producción, incluyendo aplicaciones desplegadas y desarrollo Android en release. Actualmente estoy expandiendo mis habilidades en desarrollo mobile con Kotlin y Swift.
 
 Trabajo con un enfoque orientado a producto, combinando:
 
