@@ -85,7 +85,7 @@ Trabajo con un enfoque orientado a producto, combinando:
 ### 🤖 AI & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-# 🏆 Proyectos en producción (Portfolio real)
+# 🏆 Proyectos en producción
 
 ---
 
