@@ -17,78 +17,78 @@
 
 ---
 
-# 🚀 Perfil
+# 🚀 Profile
 
-Desarrollador enfocado en **aplicaciones web y móviles**, con experiencia en proyectos funcionales y consumo de APIs reales.
+Software developer focused on **web and mobile applications**, with experience building functional projects and integrating real-world APIs.
 
-Me centro en:
-- Android nativo con Kotlin  
-- Desarrollo web full stack  
-- APIs REST e integración de servicios  
-- UI moderna y experiencia de usuario  
-- Despliegue y buenas prácticas  
+Main focus areas:
+- Native Android development with Kotlin  
+- Full stack web development  
+- REST API integration  
+- Modern UI and user experience  
+- Deployment and clean development practices  
 
-💡 Enfocado en crecer como **Android & Full Stack Developer**.
+💡 Currently growing as an **Android & Full Stack Developer**.
 
 ---
 
-# 🧠 Stack tecnológico
+# 🧠 Tech Stack
 
-| Área | Tecnologías |
+| Area | Technologies |
 |------|------------|
-| Lenguajes | Java · JavaScript · PHP · Python |
+| Languages | Java · JavaScript · PHP · Python |
 | Frontend | HTML · CSS · Bootstrap |
 | Backend | Symfony · Laravel · REST APIs |
 | Mobile | Kotlin · Swift · Android Studio |
 | Cloud / DevOps | Vercel · Cloudflare · Docker · Git · GitHub |
-| Bases de datos | MySQL · PostgreSQL · Firebase |
+| Databases | MySQL · PostgreSQL · Firebase |
 
 ---
 
-# 🏆 Proyectos destacados
+# 🏆 Featured Projects
 
 ---
 
 ## 🎮 FreeGames App (Android)
-App Android que consume API REST de videojuegos gratuitos.
+Android app that consumes a free-to-play games REST API.
 
-- Lista de juegos con RecyclerView  
-- Detalle completo con datos técnicos  
-- Galería de screenshots en grid  
-- UI moderna con Material Design  
+- Games list using RecyclerView  
+- Detailed game view with technical information  
+- Screenshot gallery using grid layout  
+- Clean UI with Material Design  
 
 **Stack:** Kotlin · Retrofit · RecyclerView · Picasso · Coroutines  
 
 ---
 
 ## 📱 Zodiac App (Android)
-Aplicación con búsqueda, detalle y favoritos persistentes.
+App with search system and persistent favorites.
 
-- Lista de signos del zodiaco  
-- Sistema de búsqueda  
-- Favoritos con SharedPreferences  
-- Compartir contenido  
+- Zodiac sign listing  
+- Search functionality  
+- Favorites with SharedPreferences  
+- Share feature via intents  
 
 **Stack:** Kotlin · Material Design · SharedPreferences  
 
 ---
 
 ## ⚖️ IMC Calculator (Android)
-App de cálculo de IMC con interfaz reactiva.
+BMI calculator app with reactive UI.
 
-- Cálculo en tiempo real  
-- Slider de altura y control de peso  
-- Feedback visual dinámico  
+- Real-time BMI calculation  
+- Height slider and weight controls  
+- Dynamic visual feedback based on result  
 
 **Stack:** Kotlin · Material Design  
 
 ---
 
-## 🏢 Proyecto Web Corporativo (Producción)
-Web real en producción para empresa tecnológica.
+## 🏢 Corporate Web Project (Production)
+Real production website for a tech company.
 
-- Arquitectura serverless  
-- Integración con APIs externas  
-- Despliegue cloud  
+- Serverless architecture  
+- External API integration  
+- Cloud deployment  
 
 **Stack:** Vercel · Resend API · JavaScript
