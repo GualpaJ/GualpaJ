@@ -40,7 +40,8 @@ Main focus areas:
 | Frontend | HTML · CSS · Bootstrap |
 | Backend | Symfony · Laravel · REST APIs |
 | Mobile | Kotlin · Swift · Android Studio |
-| Cloud / DevOps | Vercel · Cloudflare · Docker · Git · GitHub |
+| Cloud / DevOps | Firebase · Vercel · Cloudflare · Docker · Git · GitHub |
+| Services / APIs | Resend · REST integrations |
 | Databases | MySQL · PostgreSQL · Firebase |
 
 ---
