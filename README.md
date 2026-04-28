@@ -1,4 +1,4 @@
-<h2 align="left">Software Developer | Android & Full Stack Engineer</h2>
+<h2 align="left">Software Developer | Android & Full Stack</h2>
 
 <div align="center">
 
