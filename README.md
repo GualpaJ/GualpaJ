@@ -89,6 +89,43 @@ Trabajo con un enfoque orientado a producto, combinando:
 
 ---
 
+## 🎮 FreeGames App – Android (EN DESARROLLO / PRÓXIMO RELEASE)
+
+Aplicación Android desarrollada en Kotlin que consume una API REST de videojuegos gratuitos. Permite explorar un catálogo de juegos, visualizar detalles completos y acceder a información técnica avanzada con una interfaz moderna basada en Material Design.
+
+---
+
+### 📌 Funcionalidades
+- 📡 Consumo de API REST (FreeToGame) con Retrofit
+- 📋 Lista de juegos con RecyclerView
+- 🧭 Navegación a pantalla de detalle mediante Intents
+- 🖼️ Galería de screenshots en formato grid (RecyclerView + GridLayoutManager)
+- 🎯 Sistema de detalle completo del juego:
+  - Descripción
+  - Requisitos del sistema
+  - Información técnica (OS, CPU, RAM, GPU, storage)
+- 🔗 Acceso directo a la web del juego
+- 🎨 UI moderna con Material Design (Cards, Chips, Dark Theme)
+
+---
+
+### 🧠 Enfoque técnico
+- Consumo de APIs REST con Retrofit
+- Arquitectura basada en Activities
+- Modelado de datos JSON con Gson
+- Manejo de listas complejas con RecyclerView
+- Layout avanzado con GridLayoutManager y SpanSizeLookup
+- Gestión segura de datos nulos en Kotlin
+- Optimización de carga de imágenes con Picasso
+- Diseño UI orientado a experiencia de usuario (UX)
+
+---
+
+### 🛠 Tech Stack
+Kotlin · Android Studio · Retrofit2 · Gson · RecyclerView · Material Design · Picasso · Coroutines
+
+---
+
 ## 📱 Zodiac App – Android (RELEASE PUBLICADO)
 
 Aplicación Android nativa en APK funcional (debug/release build), con funcionalidades completas y lista para despliegue.
