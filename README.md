@@ -1,4 +1,4 @@
-<h2 align="left">Software Developer | Android & Full Stack</h2>
+<h2 align="left">Software Developer | Mobile & Full Stack</h2>
 
 <div align="center">
 
@@ -70,7 +70,7 @@ iOS app that consumes the FreeToGame API to display a catalog of free games.
 
 ---
 
-## 🎮 FreeGames App (Android)
+## 🎮 FreeGames App (Android) [🔗](https://github.com/GualpaJ/FreeGames-Android)
 Android app that consumes a free-to-play games REST API.
 
 - Games list using RecyclerView  
@@ -82,7 +82,7 @@ Android app that consumes a free-to-play games REST API.
 
 ---
 
-## 📱 Zodiac App (Android)
+## 📱 Zodiac App (Android) [🔗](https://github.com/GualpaJ/Zodiac-App-Android)
 App with search system and persistent favorites.
 
 - Zodiac sign listing  
@@ -94,7 +94,7 @@ App with search system and persistent favorites.
 
 ---
 
-## ⚖️ IMC Calculator (Android)
+## ⚖️ IMC Calculator (Android) [🔗](https://github.com/GualpaJ/IMC-App-Android)
 BMI calculator app with reactive UI.
 
 - Real-time BMI calculation  
@@ -105,7 +105,7 @@ BMI calculator app with reactive UI.
 
 ---
 
-## 🏢 Corporate Web Project GRUPO HPPSAP (Production)
+## 🏢 Grupo HPPSAP – Corporate Website (Production) [🔗](https://www.grupohppsap.com) 
 Real production website for a tech company.
 
 - Serverless architecture  
