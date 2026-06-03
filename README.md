@@ -105,7 +105,7 @@ BMI calculator app with reactive UI.
 
 ---
 
-## 🏢 Grupo HPPSAP – Corporate Website (Production) [🔗](https://www.grupohppsap.com) 
+## 🏢 Grupo HPPSAP – Corporate Website (Production)
 Real production website for a tech company.
 
 - Serverless architecture  
@@ -113,3 +113,23 @@ Real production website for a tech company.
 - Cloud deployment  
 
 **Stack:** Vercel · Resend API · JavaScript
+
+**Cliente real en producción:** [https://www.grupohppsap.com](https://www.grupohppsap.com)
+---
+
+## 💇 Urban Imagen & Spa – Web App (Production)
+Sistema de gestión completo para un salón de belleza real, implementado como cliente productivo.
+
+- **Catálogo de servicios** dinámico con carga desde Firestore
+- **Sistema de reservas online** con validación de disponibilidad en tiempo real
+- **Panel de administración** con CRUD completo de citas
+- **Generación automática de archivos `.ics`** para añadir la cita al calendario del cliente
+- **Autenticación de administradores** con Firebase Auth
+- **Filtros y ordenación** de citas por estado, servicio o rango de fechas
+- **Diseño responsive** y temas personalizados con Bootstrap
+
+**Stack:** HTML5 · CSS3 · JavaScript · Bootstrap 5 · Firebase (Firestore, Auth, Hosting) · Cloudflare (DNS/Proxy)
+
+**Cliente real en producción:** [https://www.urbanimagenstudio.com](https://www.urbanimagenstudio.com)
+
+*Repositorio privado – disponible para demostración bajo petición.*
