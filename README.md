@@ -34,20 +34,39 @@ Main focus areas:
 
 # 🧠 Tech Stack
 
+## 📱 Mobile Development
+| Platform | Technologies |
+|----------|--------------|
+| **Android** | Kotlin · Android Studio · Retrofit · Coroutines · Material Design |
+| **iOS** | Swift · Xcode · UIKit · async/await · Core Haptics |
+| **Cross Platform** | REST APIs · MVVM · Clean Architecture |
+
+## 🌐 Web & Backend
 | Area | Technologies |
-|------|------------|
+|------|--------------|
 | Languages | Java · JavaScript · PHP · Python |
 | Frontend | HTML · CSS · Bootstrap |
 | Backend | Symfony · Laravel · REST APIs |
-| Mobile | Kotlin · Swift · Android Studio |
 | Cloud / DevOps | Firebase · Vercel · Cloudflare · Docker · Git · GitHub |
-| Services / APIs | Resend · REST integrations |
 | Databases | MySQL · PostgreSQL · Firebase |
 
 ---
 
 # 🏆 Featured Projects
 
+---
+
+## 📱 FreeToGame App (iOS)
+iOS app that consumes the FreeToGame API to display a catalog of free games.
+
+- Games list with **UITableView** and search bar
+- Detail screen with **system requirements** and **screenshot gallery**
+- **Interactive zoom** (pinch and double tap) with haptic feedback
+- Share game link and open in browser
+- Platform indicators (Web Browser / PC Windows)
+
+**Stack:** Swift · UIKit · async/await · UICollectionView · UIScrollView · Core Haptics
+[🔗 Ver repositorio](https://github.com/GualpaJ/FreeToGame-iOS)
 ---
 
 ## 🎮 FreeGames App (Android)
@@ -85,7 +104,7 @@ BMI calculator app with reactive UI.
 
 ---
 
-## 🏢 Corporate Web Project (Production)
+## 🏢 Corporate Web Project GRUPO HPPSAP (Production)
 Real production website for a tech company.
 
 - Serverless architecture  
