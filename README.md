@@ -8,9 +8,8 @@
       <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="150" height="150" />
     </td>
     <td align="center" style="padding-left: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=GualpaJ&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" />
-    </td>
-    </td>
+  <img src="https://gh-stats.com/api?user=GualpaJ&theme=dracula&hide_border=false&border_radius=5" height="150" />
+</td>
   </tr>
 </table>
 
