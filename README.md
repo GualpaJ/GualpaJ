@@ -56,7 +56,8 @@ Main focus areas:
 
 ---
 
-## 📱 FreeToGame App (iOS)
+## 📱 FreeToGame App (iOS) [🔗](https://github.com/GualpaJ/FreeToGame-iOS)
+
 iOS app that consumes the FreeToGame API to display a catalog of free games.
 
 - Games list with **UITableView** and search bar
@@ -66,7 +67,6 @@ iOS app that consumes the FreeToGame API to display a catalog of free games.
 - Platform indicators (Web Browser / PC Windows)
 
 **Stack:** Swift · UIKit · async/await · UICollectionView · UIScrollView · Core Haptics
-[🔗 Ver repositorio](https://github.com/GualpaJ/FreeToGame-iOS)
 ---
 
 ## 🎮 FreeGames App (Android)
