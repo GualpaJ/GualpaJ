@@ -2,13 +2,9 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" style="padding-right: 20px;">
-      <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="150" height="150" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/GualpaJ">
+  <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="150" height="150" />
+</a>
 
 </div>
 
@@ -20,12 +16,13 @@ Software developer focused on **web and mobile applications**, with experience b
 
 Main focus areas:
 - Native Android development with Kotlin  
+- Native iOS development with Swift  
 - Full stack web development  
 - REST API integration  
 - Modern UI and user experience  
-- Deployment and clean development practices  
+- Cloud deployment and clean development practices  
 
-💡 Currently growing as an **Android & Full Stack Developer**.
+💡 Currently growing as a **Mobile & Full Stack Developer**.
 
 ---
 
@@ -68,66 +65,73 @@ iOS app that consumes the FreeToGame API to display a catalog of free games.
 ---
 
 ## 🎮 FreeGames App (Android) [🔗](https://github.com/GualpaJ/FreeGames-Android)
+
 Android app that consumes a free-to-play games REST API.
 
-- Games list using RecyclerView  
-- Detailed game view with technical information  
-- Screenshot gallery using grid layout  
-- Clean UI with Material Design  
+- Games list using **RecyclerView**
+- Detailed game view with technical information
+- Screenshot gallery using grid layout
+- Clean UI with Material Design
 
-**Stack:** Kotlin · Retrofit · RecyclerView · Picasso · Coroutines  
+**Stack:** Kotlin · Retrofit · RecyclerView · Picasso · Coroutines
 
 ---
 
 ## 📱 Zodiac App (Android) [🔗](https://github.com/GualpaJ/Zodiac-App-Android)
+
 App with search system and persistent favorites.
 
-- Zodiac sign listing  
-- Search functionality  
-- Favorites with SharedPreferences  
-- Share feature via intents  
+- Zodiac sign listing
+- Search functionality
+- Favorites with SharedPreferences
+- Share feature via intents
 
-**Stack:** Kotlin · Material Design · SharedPreferences  
+**Stack:** Kotlin · Material Design · SharedPreferences
 
 ---
 
 ## ⚖️ IMC Calculator (Android) [🔗](https://github.com/GualpaJ/IMC-App-Android)
+
 BMI calculator app with reactive UI.
 
-- Real-time BMI calculation  
-- Height slider and weight controls  
-- Dynamic visual feedback based on result  
+- Real-time BMI calculation
+- Height slider and weight controls
+- Dynamic visual feedback based on result
 
-**Stack:** Kotlin · Material Design  
+**Stack:** Kotlin · Material Design
 
 ---
 
 ## 🏢 Grupo HPPSAP – Corporate Website (Production)
+
 Real production website for a tech company.
 
-- Serverless architecture  
-- External API integration  
-- Cloud deployment  
+- Serverless architecture
+- External API integration
+- Cloud deployment
 
-**Stack:** Vercel · Resend API · JavaScript
+**Stack:** Vercel · Resend API · JavaScript · Cloudflare
 
-**Cliente real en producción:** [https://www.grupohppsap.com](https://www.grupohppsap.com)
+**Live production:** [https://www.grupohppsap.com](https://www.grupohppsap.com)
 
 ---
 
 ## 💇 Urban Imagen & Spa – Web App (Production)
-Sistema de gestión completo para un salón de belleza real, implementado como cliente productivo.
 
-- **Catálogo de servicios** dinámico con carga desde Firestore
-- **Sistema de reservas online** con validación de disponibilidad en tiempo real
-- **Panel de administración** con CRUD completo de citas
-- **Generación automática de archivos `.ics`** para añadir la cita al calendario del cliente
-- **Autenticación de administradores** con Firebase Auth
-- **Filtros y ordenación** de citas por estado, servicio o rango de fechas
-- **Diseño responsive** y temas personalizados con Bootstrap
+Complete management system for a real beauty salon, deployed as a production client.
+
+- Dynamic **service catalog** loaded from Firestore
+- **Online booking system** with real-time availability validation
+- **Admin panel** with full CRUD for appointments
+- Automatic **.ics file generation** to add appointments to calendar
+- **Admin authentication** with Firebase Auth
+- **Filters and sorting** by status, service, or date range
+- **Responsive design** with custom Bootstrap theming
 
 **Stack:** HTML5 · CSS3 · JavaScript · Bootstrap 5 · Firebase (Firestore, Auth, Hosting) · Cloudflare (DNS/Proxy)
 
-**Cliente real en producción:** [https://www.urbanimagenstudio.com](https://www.urbanimagenstudio.com)
+**Live production:** [https://www.urbanimagenstudio.com](https://www.urbanimagenstudio.com)
 
-*Repositorio privado – disponible para demostración bajo petición.*
+*Private repository – available for demonstration upon request.*
+
+---
