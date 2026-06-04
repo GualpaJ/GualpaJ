@@ -1,4 +1,4 @@
-<h2 align="left">Software Developer | Mobile & Full Stack</h2>
+<h2 align="left">FULL STACK & MOBILE DEVELOPER | IOS · ANDROID · WEB</h2>
 
 <div align="center">
 
