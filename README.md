@@ -69,6 +69,25 @@ iOS app to find convenience stores (bazars) in your neighborhood.
 
 ---
 
+## 🏋️ RepsRex (Android) [🔗](https://github.com/GualpaJ/RepsRex-Android)
+
+Native Android application for managing workout routines and exercises. Allows creating personalized routines and adding exercises with sets and repetitions from a catalog of over **530 exercises**.
+
+- **Catalog of 530+ predefined exercises** ready to use
+- **Create custom routines** with name and description
+- **Add exercises** to routines with sets and repetitions configuration
+- **Detailed routine view** with all assigned exercises
+- **Confirmation dialog** for deleting routines (Cancel/Yes) with Material Design
+- **Local persistence** with Room Database and entity relationships
+- **Modern design** with Material Design Components
+- **MVVM architecture** with LiveData and ViewModel
+- **Asynchronous operations** with Coroutines for database
+- **Smooth navigation** with Navigation Component between fragments
+
+**Stack:** Kotlin · Android Studio · Room Database · RecyclerView · LiveData · ViewModel · Material Design · Coroutines · Navigation Component
+
+---
+
 ## 📱 FreeToGame App (iOS) [🔗](https://github.com/GualpaJ/FreeToGame-iOS)
 
 iOS app that consumes the FreeToGame API to display a catalog of free games.
@@ -132,6 +151,5 @@ Complete management system for a real beauty salon, deployed as a production cli
 |---------|-------------|-------|
 | **Zodiac App** (Android) | Zodiac sign listing with search and persistent favorites using SharedPreferences | Kotlin · Material Design |
 | **IMC Calculator** (Android) | BMI calculator with reactive UI and real-time visual feedback | Kotlin · Material Design |
-| **RepRex** | *(Coming soon)* | - |
 
 ---
