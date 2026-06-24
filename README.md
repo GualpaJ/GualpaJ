@@ -32,7 +32,7 @@ Main focus areas:
 | Platform | Technologies |
 |----------|--------------|
 | **Android** | Kotlin · Android Studio · Retrofit · Coroutines · Material Design |
-| **iOS** | Swift · Xcode · UIKit · async/await · Core Haptics |
+| **iOS** | Swift · Xcode · UIKit · MapKit · CoreLocation · MKDirections · async/await · Core Haptics |
 | **Cross Platform** | REST APIs · MVVM · Clean Architecture |
 
 ## 🌐 Web & Backend
@@ -41,12 +41,31 @@ Main focus areas:
 | Languages | Java · JavaScript · PHP · Python |
 | Frontend | HTML · CSS · Bootstrap |
 | Backend | Symfony · Laravel · REST APIs |
-| Cloud / DevOps | Firebase · Vercel · Cloudflare · Docker · Git · GitHub |
+| Cloud / DevOps | Firebase (Firestore, Auth, Hosting) · Vercel · Cloudflare · Docker · Git · GitHub |
 | Databases | MySQL · PostgreSQL · Firebase |
+| **Map Services** | MapKit · CoreLocation · MKDirections · Reverse Geocoding · CLGeocoder |
 
 ---
 
 # 🏆 Featured Projects
+
+---
+
+## 🛒 AlimentaShop (iOS) [🔗](https://github.com/GualpaJ/AlimentaShop)
+
+iOS app to find convenience stores (bazars) in your neighborhood.
+
+- Interactive map with **MapKit** and custom pins
+- Add stores with **GPS** and automatic address (reverse geocoding)
+- Store details with Previous/Next navigation
+- Walking routes with **MKDirections**
+- Authentication with **Firebase Auth** + **Google Sign-In**
+- Profile editing with visual edit mode
+- Real-time storage with **Firebase Firestore**
+
+**Stack:** Swift · UIKit · MapKit · CoreLocation · Firebase · MKDirections
+
+> 📌 *Demo available in the repository. Full source code available upon request.*
 
 ---
 
@@ -77,32 +96,7 @@ Android app that consumes a free-to-play games REST API.
 
 ---
 
-## 📱 Zodiac App (Android) [🔗](https://github.com/GualpaJ/Zodiac-App-Android)
-
-App with search system and persistent favorites.
-
-- Zodiac sign listing
-- Search functionality
-- Favorites with SharedPreferences
-- Share feature via intents
-
-**Stack:** Kotlin · Material Design · SharedPreferences
-
----
-
-## ⚖️ IMC Calculator (Android) [🔗](https://github.com/GualpaJ/IMC-App-Android)
-
-BMI calculator app with reactive UI.
-
-- Real-time BMI calculation
-- Height slider and weight controls
-- Dynamic visual feedback based on result
-
-**Stack:** Kotlin · Material Design
-
----
-
-## 🏢 Grupo HPPSAP – Corporate Website (Production)
+## 🏢 Grupo HPPSAP – Corporate Website (Production) [🔗](https://www.grupohppsap.com)
 
 Real production website for a tech company.
 
@@ -112,11 +106,9 @@ Real production website for a tech company.
 
 **Stack:** Vercel · Resend API · JavaScript · Cloudflare
 
-**Live production:** [https://www.grupohppsap.com](https://www.grupohppsap.com)
-
 ---
 
-## 💇 Urban Imagen & Spa – Web App (Production)
+## 💇 Urban Imagen & Spa – Web App (Production) [🔗](https://www.urbanimagenstudio.com)
 
 Complete management system for a real beauty salon, deployed as a production client.
 
@@ -130,8 +122,23 @@ Complete management system for a real beauty salon, deployed as a production cli
 
 **Stack:** HTML5 · CSS3 · JavaScript · Bootstrap 5 · Firebase (Firestore, Auth, Hosting) · Cloudflare (DNS/Proxy)
 
-**Live production:** [https://www.urbanimagenstudio.com](https://www.urbanimagenstudio.com)
-
 *Private repository – available for demonstration upon request.*
+
+---
+
+## 📂 Other Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Zodiac App** (Android) | Zodiac sign listing with search and persistent favorites using SharedPreferences | Kotlin · Material Design |
+| **IMC Calculator** (Android) | BMI calculator with reactive UI and real-time visual feedback | Kotlin · Material Design |
+| **RepRex** | *(Coming soon)* | - |
+
+---
+
+## 📬 Contact
+
+- **GitHub:** [GualpaJ](https://github.com/GualpaJ)
+- **LinkedIn:** [GualpaJ](https://linkedin.com/in/gualpaj)
 
 ---
