@@ -51,7 +51,7 @@ Main focus areas:
 
 ---
 
-## 🛒 AlimentaShop (iOS) [🔗](https://github.com/GualpaJ/AlimentaShop)
+## 🛒 AlimentaShop (iOS) [🔗](https://github.com/GualpaJ/AlimentaShop-iOS)
 
 iOS app to find convenience stores (bazars) in your neighborhood.
 
