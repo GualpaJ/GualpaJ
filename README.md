@@ -135,10 +135,3 @@ Complete management system for a real beauty salon, deployed as a production cli
 | **RepRex** | *(Coming soon)* | - |
 
 ---
-
-## 📬 Contact
-
-- **GitHub:** [GualpaJ](https://github.com/GualpaJ)
-- **LinkedIn:** [GualpaJ](https://linkedin.com/in/gualpaj)
-
----
