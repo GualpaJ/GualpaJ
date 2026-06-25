@@ -51,7 +51,7 @@ Main focus areas:
 
 | Project | Preview |
 |:---|:---:|
-| **🛒 AlimentaShop (iOS)** [🔗](https://github.com/GualpaJ/AlimentaShop-iOS)<br><br>iOS app to find convenience stores with interactive maps and routing.<br><br>**Core:** MapKit · GPS · MKDirections · Firebase Auth | <img src="https://raw.githubusercontent.com/GualpaJ/AlimentaShop-iOS/main/screenshots/demo_AlimentaShop.gif" width="150"/> |
+| **🛒 AlimentaShop (iOS)** [🔗](https://github.com/GualpaJ/AlimentaShop-iOS)<br><br>iOS app to find convenience stores with interactive maps and routing.<br><br>**Core:** MapKit · GPS · MKDirections · Firebase Auth | <img src="screenshots/demo_AlimentaShop.gif" width="150"/> |
 | **✅ TaskList App (Android)** [🔗](https://github.com/GualpaJ/TaskList-Android)<br><br>Complete to-do list manager with Room persistence, MVVM, and search.<br><br>**Core:** Room DB · MVVM · Material Design · Coroutines · DiffUtil | <img src="https://via.placeholder.com/180x360/2d2d2d/FFFFFF?text=TaskList" width="150"/> |
 | **🏋️ RepsRex (Android)** [🔗](https://github.com/GualpaJ/RepsRex-Android)<br><br>Workout routine manager with 530+ exercises and Room persistence.<br><br>**Core:** Room DB · MVVM · Material Design · Coroutines | <img src="https://via.placeholder.com/180x360/2d2d2d/FFFFFF?text=RepsRex" width="150"/> |
 | **📱 FreeToGame (iOS)** [🔗](https://github.com/GualpaJ/FreeToGame-iOS)<br><br>Free games catalog from REST API with interactive gallery.<br><br>**Core:** UIKit · async/await · UICollectionView · Core Haptics | <img src="https://via.placeholder.com/180x360/2d2d2d/FFFFFF?text=FreeToGame" width="150"/> |
