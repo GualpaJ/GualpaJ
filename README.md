@@ -1,4 +1,4 @@
-<h2 align="left">FULL STACK & MOBILE DEVELOPER | IOS · ANDROID · WEB</h2>
+<h2 align="left">Full-Stack & Mobile Developer | iOS · Android · Web</h2>
 
 <div align="center">
 
@@ -12,17 +12,17 @@
 
 # 🚀 Profile
 
-Software developer focused on **web and mobile applications**, with experience building functional projects and integrating real-world APIs.
+Software Developer focused on **web and mobile applications**, with experience building production-ready projects and integrating real-world APIs.
 
 Main focus areas:
 - Native Android development with Kotlin  
 - Native iOS development with Swift  
-- Full stack web development  
+- Full-stack web development  
 - REST API integration  
 - Modern UI and user experience  
-- Cloud deployment and clean development practices  
+- Cloud deployment and clean code practices  
 
-💡 Currently growing as a **Mobile & Full Stack Developer**.
+💡 Currently growing as a **Mobile & Full-Stack Developer**.
 
 ---
 
@@ -33,7 +33,7 @@ Main focus areas:
 |----------|--------------|
 | **Android** | Kotlin · Android Studio · Retrofit · Coroutines · Material Design |
 | **iOS** | Swift · Xcode · UIKit · MapKit · CoreLocation · MKDirections · async/await · Core Haptics |
-| **Cross Platform** | REST APIs · MVVM · Clean Architecture |
+| **Cross-Platform** | REST APIs · MVVM · Clean Architecture |
 
 ## 🌐 Web & Backend
 | Area | Technologies |
@@ -49,99 +49,15 @@ Main focus areas:
 
 # 🏆 Featured Projects
 
----
-
-## 🛒 AlimentaShop (iOS) [🔗](https://github.com/GualpaJ/AlimentaShop-iOS)
-
-iOS app to find convenience stores (bazars) in your neighborhood.
-
-- Interactive map with **MapKit** and custom pins
-- Add stores with **GPS** and automatic address (reverse geocoding)
-- Store details with Previous/Next navigation
-- Walking routes with **MKDirections**
-- Authentication with **Firebase Auth** + **Google Sign-In**
-- Profile editing with visual edit mode
-- Real-time storage with **Firebase Firestore**
-
-**Stack:** Swift · UIKit · MapKit · CoreLocation · Firebase · MKDirections
-
-> 📌 *Demo available in the repository. Full source code available upon request.*
-
----
-
-## 🏋️ RepsRex (Android) [🔗](https://github.com/GualpaJ/RepsRex-Android)
-
-Native Android application for managing workout routines and exercises. Allows creating personalized routines and adding exercises with sets and repetitions from a catalog of over **530 exercises**.
-
-- **Catalog of 530+ predefined exercises** ready to use
-- **Create custom routines** with name and description
-- **Add exercises** to routines with sets and repetitions configuration
-- **Detailed routine view** with all assigned exercises
-- **Confirmation dialog** for deleting routines (Cancel/Yes) with Material Design
-- **Local persistence** with Room Database and entity relationships
-- **Modern design** with Material Design Components
-- **MVVM architecture** with LiveData and ViewModel
-- **Asynchronous operations** with Coroutines for database
-- **Smooth navigation** with Navigation Component between fragments
-
-**Stack:** Kotlin · Android Studio · Room Database · RecyclerView · LiveData · ViewModel · Material Design · Coroutines · Navigation Component
-
----
-
-## 📱 FreeToGame App (iOS) [🔗](https://github.com/GualpaJ/FreeToGame-iOS)
-
-iOS app that consumes the FreeToGame API to display a catalog of free games.
-
-- Games list with **UITableView** and search bar
-- Detail screen with **system requirements** and **screenshot gallery**
-- **Interactive zoom** (pinch and double tap) with haptic feedback
-- Share game link and open in browser
-- Platform indicators (Web Browser / PC Windows)
-
-**Stack:** Swift · UIKit · async/await · UICollectionView · UIScrollView · Core Haptics
-
----
-
-## 🎮 FreeGames App (Android) [🔗](https://github.com/GualpaJ/FreeGames-Android)
-
-Android app that consumes a free-to-play games REST API.
-
-- Games list using **RecyclerView**
-- Detailed game view with technical information
-- Screenshot gallery using grid layout
-- Clean UI with Material Design
-
-**Stack:** Kotlin · Retrofit · RecyclerView · Picasso · Coroutines
-
----
-
-## 🏢 Grupo HPPSAP – Corporate Website (Production) [🔗](https://www.grupohppsap.com)
-
-Real production website for a tech company.
-
-- Serverless architecture
-- External API integration
-- Cloud deployment
-
-**Stack:** Vercel · Resend API · JavaScript · Cloudflare
-
----
-
-## 💇 Urban Imagen & Spa – Web App (Production) [🔗](https://www.urbanimagenstudio.com)
-
-Complete management system for a real beauty salon, deployed as a production client.
-
-- Dynamic **service catalog** loaded from Firestore
-- **Online booking system** with real-time availability validation
-- **Admin panel** with full CRUD for appointments
-- Automatic **.ics file generation** to add appointments to calendar
-- **Admin authentication** with Firebase Auth
-- **Filters and sorting** by status, service, or date range
-- **Responsive design** with custom Bootstrap theming
-
-**Stack:** HTML5 · CSS3 · JavaScript · Bootstrap 5 · Firebase (Firestore, Auth, Hosting) · Cloudflare (DNS/Proxy)
-
-*Private repository – available for demonstration upon request.*
+| Project | Preview |
+|:---|:---:|
+| **🛒 AlimentaShop (iOS)** [🔗](https://github.com/GualpaJ/AlimentaShop-iOS)<br><br>iOS app to find convenience stores with interactive maps and routing.<br><br>**Core:** MapKit · GPS · MKDirections · Firebase Auth | <img src="https://raw.githubusercontent.com/GualpaJ/AlimentaShop-iOS/main/screenshots/demo_AlimentaShop.gif" width="150"/> |
+| **✅ TaskList App (Android)** [🔗](https://github.com/GualpaJ/TaskList-Android)<br><br>Complete to-do list manager with Room persistence, MVVM, and search.<br><br>**Core:** Room DB · MVVM · Material Design · Coroutines · DiffUtil | <img src="https://via.placeholder.com/180x360/2d2d2d/FFFFFF?text=TaskList" width="150"/> |
+| **🏋️ RepsRex (Android)** [🔗](https://github.com/GualpaJ/RepsRex-Android)<br><br>Workout routine manager with 530+ exercises and Room persistence.<br><br>**Core:** Room DB · MVVM · Material Design · Coroutines | <img src="https://via.placeholder.com/180x360/2d2d2d/FFFFFF?text=RepsRex" width="150"/> |
+| **📱 FreeToGame (iOS)** [🔗](https://github.com/GualpaJ/FreeToGame-iOS)<br><br>Free games catalog from REST API with interactive gallery.<br><br>**Core:** UIKit · async/await · UICollectionView · Core Haptics | <img src="https://via.placeholder.com/180x360/2d2d2d/FFFFFF?text=FreeToGame" width="150"/> |
+| **🎮 FreeGames (Android)** [🔗](https://github.com/GualpaJ/FreeGames-Android)<br><br>Free-to-play games explorer with REST API integration.<br><br>**Core:** Retrofit · RecyclerView · Coroutines | <img src="https://via.placeholder.com/180x360/2d2d2d/FFFFFF?text=FreeGames" width="150"/> |
+| **🏢 Grupo HPPSAP** [🔗](https://www.grupohppsap.com)<br><br>Corporate website in production with serverless architecture.<br><br>**Core:** Vercel · Serverless · API Integration | <img src="https://via.placeholder.com/300x150/2d2d2d/FFFFFF?text=HPPSAP" width="150"/> |
+| **💇 Urban Imagen & Spa** [🔗](https://www.urbanimagenstudio.com)<br><br>Complete salon management system with booking and admin panel.<br><br>**Core:** Firebase · Booking System · Admin CRUD · .ics Generation | <img src="https://via.placeholder.com/300x150/2d2d2d/FFFFFF?text=Urban+Imagen" width="150"/> |
 
 ---
 
@@ -149,7 +65,11 @@ Complete management system for a real beauty salon, deployed as a production cli
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Zodiac App** (Android) | Zodiac sign listing with search and persistent favorites using SharedPreferences | Kotlin · Material Design |
-| **IMC Calculator** (Android) | BMI calculator with reactive UI and real-time visual feedback | Kotlin · Material Design |
+| **Zodiac App** (Android) [🔗](https://github.com/GualpaJ/Zodiac-App-Android) | Zodiac sign listing with search, persistent favorites (SharedPreferences), and share functionality | Kotlin · RecyclerView · SharedPreferences · Material Design |
+| **Zodiac-iOS** [🔗](https://github.com/GualpaJ/Zodiac-iOS) | iOS version of zodiac app with detail navigation | Swift · UIKit |
+| **IMC Calculator** (Android) [🔗](https://github.com/GualpaJ/IMC-App-Android) | BMI calculator with reactive UI, slider, and real-time visual feedback (colors and messages) | Kotlin · Material Design · CardView |
+| **BMI-iOS** [🔗](https://github.com/GualpaJ/BMI-iOS) | iOS version of BMI calculator | Swift · UIKit |
+| **FindFilms** [🔗](https://github.com/GualpaJ/FindFilms) | Movie search and explorer with list and detail screens | Kotlin · RecyclerView · REST API |
 
 ---
+
