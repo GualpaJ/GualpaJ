@@ -66,7 +66,6 @@ Main focus areas:
 | **Zodiac-iOS** [🔗](https://github.com/GualpaJ/Zodiac-iOS) | iOS version of zodiac app with detail navigation | Swift · UIKit |
 | **IMC Calculator** (Android) [🔗](https://github.com/GualpaJ/IMC-App-Android) | BMI calculator with reactive UI, slider, and real-time visual feedback (colors and messages) | Kotlin · Material Design · CardView |
 | **BMI-iOS** [🔗](https://github.com/GualpaJ/BMI-iOS) | iOS version of BMI calculator | Swift · UIKit |
-| **FindFilms** [🔗](https://github.com/GualpaJ/FindFilms) | Movie search and explorer with list and detail screens | Kotlin · RecyclerView · REST API |
 
 ---
 
