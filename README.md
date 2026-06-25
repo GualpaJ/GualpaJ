@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/GualpaJ">
-  <img src="https://media1.tenor.com/m/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="150" height="150" />
+  <img src="screenshots/cat.gif" width="150" height="150" />
 </a>
 
 </div>
