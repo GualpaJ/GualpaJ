@@ -1,10 +1,14 @@
 <h2 align="left">Full-Stack & Mobile Developer | iOS · Android · Web</h2>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
 
-<a href="https://github.com/GualpaJ">
-  <img src="screenshots/cat.gif" width="150" height="150" />
-</a>
+  <a href="https://javiergualpa.vercel.app/" target="_blank">
+    <img src="screenshots/qr.png" width="150" height="150" alt="QR a mi portafolio" />
+  </a>
+
+  <a href="https://github.com/GualpaJ">
+    <img src="screenshots/cat.gif" width="150" height="150" alt="GitHub" />
+  </a>
 
 </div>
 
