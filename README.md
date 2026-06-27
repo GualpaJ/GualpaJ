@@ -1,6 +1,6 @@
 <h2 align="left">Full-Stack & Mobile Developer | iOS · Android · Web</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 80px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;flex-wrap: wrap;">
 
   <!-- QR a la izquierda -->
   <a href="https://javiergualpa.vercel.app/" target="_blank">
